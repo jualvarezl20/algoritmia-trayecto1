@@ -44,3 +44,48 @@ Entrada	Proceso	Salida
 Nombre del cliente (Caracter).	Multiplicar las horas por el precio de cada hora.	Mensaje de bienvenida con el nombre del cliente.
 Cantidad de horas (Entero).	Utilizar una tarifa de $10.000 por hora.	Total que debe pagar el cliente.
 Precio por hora (Real).	Guardar el resultado en una variable llamada total.	Mostrar el total del alquiler.
+
+Respuestas de cotización_basica.
+
+Pueba con 1 hora:
+
+*** Ejecución Iniciada. ***
+Nombre del cliente
+> Ana
+Hola, Ana: tu alquiler de 1 horas cuesta $10000
+*** Ejecución Finalizada. ***
+
+Pueba con 3 hora:
+
+*** Ejecución Iniciada. ***
+Nombre del cliente
+> Ana
+Hola, Ana: tu alquiler de 3 horas cuesta $30000
+*** Ejecución Finalizada. ***
+
+Pueba con 8 hora:
+
+*** Ejecución Iniciada. ***
+Nombre del cliente
+> Ana
+Hola, Ana: tu alquiler de 8 horas cuesta $80000
+*** Ejecución Finalizada. ***
+
+Pueba con 0 hora:
+
+*** Ejecución Iniciada. ***
+Nombre del cliente
+> Ana
+Hola, Ana: tu alquiler de 0 horas cuesta $0
+*** Ejecución Finalizada. ***
+
+Pueba con -1 hora:
+
+*** Ejecución Iniciada. ***
+Nombre del cliente
+> Ana
+Hola, Ana: tu alquiler de -1 horas cuesta $-10000
+*** Ejecución Finalizada. ***
+
+EL programa no identifica si el valor es 0 o negativo y realiza la operación, mstrando dinero negativo o nulo. 
+
