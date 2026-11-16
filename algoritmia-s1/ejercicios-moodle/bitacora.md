@@ -89,3 +89,16 @@ Hola, Ana: tu alquiler de -1 horas cuesta $-10000
 
 EL programa no identifica si el valor es 0 o negativo y realiza la operación, mstrando dinero negativo o nulo. 
 
+pruba minireto 3 :
+
+*** Ejecución Iniciada. ***
+Nombre del recorrido:
+> Sabores de barrio
+Cuál es la cantidad de personas:
+> 4
+El recorrido sabores de barrio para 4 personas, a $60000 por persona, tie
+ne un valor total de $240000
+El anticipo sera de $72000
+El saldo pendiente es de $168000
+*** Ejecución Finalizada. ***
+
