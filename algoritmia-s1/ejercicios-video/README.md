@@ -1,4 +1,15 @@
-Pruebas PSeInt
+## Contenido de la carpeta
+
+Ejercicios introductorios de PSeInt, sus diagramas de flujo y un procedimiento escrito:
+
+- `Saludo.psc`: saluda a una persona por su nombre.
+- `EdadEnDias.psc`: calcula una edad aproximada en días.
+- `Propinas.psc`: calcula la propina, el total y el costo por persona.
+- `PromedioNotas.psc`: valida tres notas y calcula su promedio.
+- `tinto.md`: describe los pasos para preparar un tinto.
+- `diagramas/`: contiene los diagramas de los cuatro ejercicios de PSeInt.
+
+## Pruebas PSeInt
 
 1. Saludo 
 
