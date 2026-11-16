@@ -1,13 +1,15 @@
-En el presente repositorio se explica dónde están los ejercicios del trayecto 1.
+# Algoritmia - Trayecto 1
 
-En el repositorio existen 3 carpetas, cada una correspondinte a una semana del trayecto y fueron llamadas "algoritmia-s(indicativo semana)", en cada capeta, hay 2 sub carpetas, una con el "ejercicios-video" en la cual se encuntran los ejercicios propuestos en el video explicativo, y otra carpeta llamada ejercicios-moodle, en la cual se encuntran los ejercicios propuestos en el moodle. 
+Repositorio de ejercicios de algoritmia desarrollados durante las tres semanas del trayecto. La mayoría están escritos en PSeInt.
 
-Ejercicios semana 1: 
+## Contenido
 
-El la carpeta algoritmia-s1, encontramos la subcarpeta "ejercicios-video", en la cual s eencuntran los 4 ejercicios propuestos en PSeInt, una carpeta con los 4 diagramas de flujo y 2 archivos md, uno llamdo "tinto", en el cual se explica como hacer un tinto y un "README" con las pruebas de los archivos PSeInt. los archivos PSeInt son: 
-Saludo 
-EdadEnDias
-Propina
-PromedioNotas
+- [algoritmia-s1](algoritmia-s1/README.md): ejercicios iniciales, diagramas de flujo y actividades de Rueda Libre.
+- [algoritmia-s2](algoritmia-s2/README.md): ejercicios de la segunda semana.
+- [algoritmia-s3](algoritmia-s3/README.md): ejercicios de la tercera semana.
 
-En la subcarpeta "ejercicios-moodle", alli se encuntran los archios "README.md" y bitacora.md, ademas de una carpeta llamda algoritmos 
+Cada carpeta reúne los archivos de su semana. Los programas tienen extensión `.psc`; algunas actividades incluyen diagramas, pruebas y documentación adicional.
+
+## Cómo ejecutar los ejercicios
+
+Abre el archivo `.psc` en PSeInt y ejecútalo. Ingresa los datos solicitados en la consola. Consulta el README de cada carpeta para encontrar información específica de sus ejercicios.
